@@ -1,0 +1,9 @@
+rootProject.name = 'AwesomeBenchmarks'
+
+dependencyResolutionManagement {
+    repositories {
+        mavenCentral()
+    }
+}
+
+include("ci")
