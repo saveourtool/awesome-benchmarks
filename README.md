@@ -1,3 +1,4 @@
+[![Validate](https://github.com/analysis-dev/awesome-benchmarks/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/analysis-dev/awesome-benchmarks/actions/workflows/build_and_test.yml)
 
 A curated list of standards, tests and benchmarks that can be used for testing and evaluating dev tools
 
