@@ -1,17 +1,17 @@
 [general]
     # benchmark name 
     name = 'Juliet Test Suite for C/C++'
-	# select the most applicable category (from the [list](https://github.com/analysis-dev/awesome-benchmarks#supported-categories))
-    category = 'benchmarks'
-	# mark your benchmark with custom tags (your custom OR [existing](https://github.com/analysis-dev/awesome-benchmarks#supported-tags) or add your own)
-    tags = ['static_analysis', 'juliet']
-	
+	# select the most applicable category from the list provided by this repo
+    category = 'STATIC_ANALYSIS'
+	# mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['static_analysis', 'juliet', 'security']
+
 [info]
     # programming language
     language = 'c/c++'
-    # license used in the project (from the [list](https://github.com/analysis-dev/awesome-benchmarks#supported-licenses))
-    license = 'CC0-1.0'
-	# number of tests/cases/scenarios/benchmarks
+    # license used in the project from the list provided by this repo
+    license = 'cc0-1.0'
+	# number of tests/cases/scenarios/benchmarks (should not be 0)
 	scenarios_num = 64099
 	# free text with a small desciption of the benchmark
     description = 'A collection of test cases in the C/C++ language included into Juliet NIST test packs. It contains examples organized under 118 different CWEs.'
