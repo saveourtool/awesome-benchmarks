@@ -1,25 +1,25 @@
 [general]
     # benchmark name 
-    name = 'Juliet Test Suite for C/C++'
+    name = 'Juliet Test Suite for Java'
     # select the most applicable category from the list provided by this repo
-    category = 'STATIC_ANALYSIS' 
+    category = 'STATIC_ANALYSIS'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
     tags = ['static_analysis', 'juliet', 'security']
 
 [info]
     # programming language
-    language = 'c/c++'
+    language = 'java'
     # license used in the project from the list provided by this repo
     license = 'cc0-1.0'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
-    scenarios_num = 64099
+    scenarios_num = 28881
     # free text with a small desciption of the benchmark
-    description = 'A collection of test cases in the C/C++ language included into Juliet NIST test packs. It contains examples organized under 118 different CWEs.'
+    description = 'A collection of test cases in the Java language. It contains examples organized under 112 different CWEs.'
 
 [links]
     # the link to the home page of the benchmark
     homepage = 'https://samate.nist.gov/SRD/testsuite.php'
     # the link to the source code
-    sources = 'https://samate.nist.gov/SRD/testsuites/juliet/Juliet_Test_Suite_v1.3_for_C_Cpp.zip'
+    sources = 'https://samate.nist.gov/SRD/testsuites/juliet/Juliet_Test_Suite_v1.3_for_Java.zip'
     # the link to the page with documentation 
     documentation = 'https://samate.nist.gov/SRD/around.php#juliet_documents'
