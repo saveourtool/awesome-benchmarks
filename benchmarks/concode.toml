@@ -1,6 +1,6 @@
 [general]
     # benchmark name
-    name = 'Mapping Language to Code in Programmatic Context'
+    name = 'Concode'
     # select the most applicable category from the list provided by this repo
     category = 'AI'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
@@ -14,7 +14,7 @@
     # number of tests/cases/scenarios/benchmarks (should not be 0)
     scenarios_num = 102000
     # free text with a small desciption of the benchmark
-    description = 'Source code depends significantly on the programmatic context, such as the class that the code would reside in. This dataset is for the task of generating class member functions given English documentation and the programmatic context provided by the rest of the class.'
+    description = 'Mapping Language to Code in Programmatic Context. Source code depends significantly on the programmatic context, such as the class that the code would reside in. This dataset is for the task of generating class member functions given English documentation and the programmatic context provided by the rest of the class.'
 
 [links]
     # the link to the home page of the benchmark

@@ -1,6 +1,6 @@
 [general]
     # benchmark name
-    name = 'Front-end Field Binding Dataset for Code Generation'
+    name = 'Tianchi'
     # select the most applicable category from the list provided by this repo
     category = 'AI'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
@@ -14,7 +14,7 @@
     # number of tests/cases/scenarios/benchmarks (should not be 0)
     scenarios_num = 2300
     # free text with a small desciption of the benchmark
-    description = 'Front-end Field Binding Dataset is a dataset used to automatically generate corresponding code snippet based on natural language description, in the actual front-end development work.'
+    description = 'Front-end Field Binding Dataset for Code Generation. Front-end Field Binding Dataset is a dataset used to automatically generate corresponding code snippet based on natural language description, in the actual front-end development work.'
 
 [links]
     # the link to the home page of the benchmark
