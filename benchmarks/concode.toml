@@ -1,25 +1,25 @@
 [general]
-# benchmark name
-name = 'Mapping Language to Code in Programmatic Context'
-# select the most applicable category from the list provided by this repo
-category = 'AI'
-# mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
-tags = ["Code Generation"]
+    # benchmark name
+    name = 'Mapping Language to Code in Programmatic Context'
+    # select the most applicable category from the list provided by this repo
+    category = 'AI'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ["Code Generation"]
 
 [info]
-# programming language
-language = 'java'
-# license used in the project from the list provided by this repo
-license = 'MIT'
-# number of tests/cases/scenarios/benchmarks (should not be 0)
-scenarios_num = 102000
-# free text with a small desciption of the benchmark
-description = 'Source code depends significantly on the programmatic context, such as the class that the code would reside in. This dataset is for the task of generating class member functions given English documentation and the programmatic context provided by the rest of the class.'
+    # programming language
+    language = 'java'
+    # license used in the project from the list provided by this repo
+    license = 'MIT'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 102000
+    # free text with a small desciption of the benchmark
+    description = 'Source code depends significantly on the programmatic context, such as the class that the code would reside in. This dataset is for the task of generating class member functions given English documentation and the programmatic context provided by the rest of the class.'
 
 [links]
-# the link to the home page of the benchmark
-homepage = 'https://github.com/sriniiyer/concode'
-# the link to the source code
-sources = 'https://drive.google.com/drive/folders/1kC6fe7JgOmEHhVFaXjzOmKeatTJy1I1W'
-# the link to the page with documentation
-documentation = 'https://arxiv.org/abs/1808.09588'
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/sriniiyer/concode'
+    # the link to the source code
+    sources = 'https://drive.google.com/drive/folders/1kC6fe7JgOmEHhVFaXjzOmKeatTJy1I1W'
+    # the link to the page with documentation
+    documentation = 'https://arxiv.org/abs/1808.09588'
