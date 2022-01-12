@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'MISRA for C++'
+    # select the most applicable category from the list provided by this repo
+    category = 'guidelines'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['portability', 'security', 'safety']
+
+[info]
+    # programming language
+    language = 'c++'
+    # license used in the project from the list provided by this repo
+    license = 'MISRA is a trading name of The MISRA Consortium Limited'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 228
+    # free text with a small desciption of the benchmark
+    description = 'MISRA is a set of C and C++ coding standards, developed by the Motor Industry Software Reliability Association (MISRA).'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.misra.org.uk/'
+    # the link to the source code
+    sources = 'https://www.misra.org.uk/app/uploads/2021/06/MISRA-Compliance-2020.pdf'
+    # the link to the page with documentation
+    documentation = 'https://www.misra.org.uk/misra-c-plus-plus/'

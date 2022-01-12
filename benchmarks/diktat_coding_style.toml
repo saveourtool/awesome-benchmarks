@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'diktat'
+    # select the most applicable category from the list provided by this repo
+    category = 'STATIC_ANALYSIS'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['static_analysis ', 'diktat']
+
+[info]
+    # programming language
+    language = 'kotlin'
+    # license used in the project from the list provided by this repo
+    license = 'MIT'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = '79'
+    # free text with a small desciption of the benchmark
+    description = 'Specification that software developers could reference to enhance their ability to write consistent, easy-to-read, and high-quality code.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/analysis-dev/diktat'
+    # the link to the source code
+    sources = 'https://github.com/analysis-dev/diktat/blob/master/info/guide/diktat-coding-convention.md'
+    # the link to the page with documentation
+    documentation = 'https://github.com/analysis-dev/diktat/blob/master/info/guide/diktat-coding-convention.md'
