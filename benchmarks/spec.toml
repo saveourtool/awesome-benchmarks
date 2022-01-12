@@ -2,7 +2,7 @@
     # benchmark name
     name = 'SPEC Benchmarks'
     # select the most applicable category from the list provided by this repo
-    category = 'Java Client/Server'
+    category = 'PERFORMANCE'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
     tags = ['performance']
 
@@ -12,7 +12,7 @@
     # license used in the project from the list provided by this repo
     license = 'Copyright 1995 - 2022 Standard Performance Evaluation Corporation'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
-    scenarios_num = '4'
+    scenarios_num = 4
     # free text with a small desciption of the benchmark
     description = 'The benchmarks aim to test "real-life" situations. There are several benchmarks testing Java scenarios, from simple computation (SPECjbb) to a full system with Java EE, database, disk, and network (SPECjEnterprise).'
 

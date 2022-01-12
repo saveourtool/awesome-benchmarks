@@ -10,9 +10,9 @@
     # programming language
     language = 'kotlin'
     # license used in the project from the list provided by this repo
-    license = 'MIT'
+    license = 'mit'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
-    scenarios_num = '79'
+    scenarios_num = 79
     # free text with a small desciption of the benchmark
     description = 'Specification that software developers could reference to enhance their ability to write consistent, easy-to-read, and high-quality code.'
 

@@ -2,7 +2,7 @@
     # benchmark name
     name = 'JPL Institutional Coding Standard for the C Programming Language'
     # select the most applicable category from the list provided by this repo
-    category = 'coding_standard'
+    category = 'CODING_STANDARD'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
     tags = ['defensive coding ', 'code clarity']
 
@@ -10,9 +10,9 @@
     # programming language
     language = 'c'
     # license used in the project from the list provided by this repo
-    license = '© 2009 California Institute of Technology'
+    license = '©2009 California Institute of Technology'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
-    scenarios_num = '31'
+    scenarios_num = 31
     # free text with a small desciption of the benchmark
     description = 'The coding rules defined here primarily target the development of mission critical flight software written in the C programming language.'
 

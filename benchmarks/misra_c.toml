@@ -2,7 +2,7 @@
     # benchmark name
     name = 'MISRA for C'
     # select the most applicable category from the list provided by this repo
-    category = 'guidelines'
+    category = 'CODING_STANDARD'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
     tags = ['portability', 'security', 'safety']
 
@@ -10,7 +10,7 @@
     # programming language
     language = 'c'
     # license used in the project from the list provided by this repo
-    license = 'MISRA is a trading name of The MISRA Consortium Limited'
+    license = 'misra'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
     scenarios_num = 127
     # free text with a small desciption of the benchmark
