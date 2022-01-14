@@ -1,6 +1,6 @@
 [general]
     # benchmark name
-    name = 'SPEC Benchmarks'
+    name = 'SPEC Java Benchmarks'
     # select the most applicable category from the list provided by this repo
     category = 'PERFORMANCE'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)

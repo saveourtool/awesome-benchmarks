@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'SPEC C/C++ Benchmarks'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance']
+
+[info]
+    # programming language
+    language = 'c/c++'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright 1995 - 2022 Standard Performance Evaluation Corporation'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1
+    # free text with a small desciption of the benchmark
+    description = 'The SPEC CPU® 2017 benchmark package contains SPEC next-generation, industry-standardized, CPU intensive suites for measuring and comparing compute intensive performance, stressing a system processor, memory subsystem and compiler.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.spec.org/benchmarks.html'
+    # the link to the source code
+    sources = 'https://www.spec.org/cpu2017/'
+    # the link to the page with documentation
+    documentation = 'https://www.spec.org/cpu2017/Docs/'
