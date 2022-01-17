@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'kotlinx'
+    # select the most applicable category from the list provided by this repo
+    category = 'STATIC_ANALYSIS'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['kotlin', 'toolkit']
+
+[info]
+    # programming language
+    language = 'kotlin'
+    # license used in the project from the list provided by this repo
+    license = 'apache-2.0'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1
+    # free text with a small desciption of the benchmark
+    description = 'kotlinx.benchmark is a toolkit for running benchmarks for multiplatform code written in Kotlin and running on the next supported targets: JVM, JavaScript.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/Kotlin/kotlinx-benchmark'
+    # the link to the source code
+    sources = 'https://github.com/Kotlin/kotlinx-benchmark/archive/refs/tags/v0.3.1.zip'
+    # the link to the page with documentation
+    documentation = 'https://github.com/Kotlin/kotlinx-benchmark/blob/master/README.md'

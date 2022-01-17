@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'SPEC Java Benchmarks'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance']
+
+[info]
+    # programming language
+    language = 'java'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright 1995 - 2022 Standard Performance Evaluation Corporation'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 4
+    # free text with a small desciption of the benchmark
+    description = 'The benchmarks aim to test "real-life" situations. There are several benchmarks testing Java scenarios, from simple computation (SPECjbb) to a full system with Java EE, database, disk, and network (SPECjEnterprise).'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.spec.org/benchmarks.html'
+    # the link to the source code
+    sources = 'https://www.spec.org/jbb2015/'
+    # the link to the page with documentation
+    documentation = 'https://www.spec.org/benchmarks.html#java'

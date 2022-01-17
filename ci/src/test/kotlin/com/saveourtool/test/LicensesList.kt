@@ -35,4 +35,9 @@ val licensesList: List<String> = listOf(
     "ncsa",
     "unlicense",
     "zlib",
+    "misra",
+    "misra-c",
+    "©2020 Carnegie Mellon University",
+    "©2009 California Institute of Technology",
+    "Copyright 1995 - 2022 Standard Performance Evaluation Corporation",
 )

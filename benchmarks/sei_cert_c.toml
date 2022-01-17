@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'SEI CERT C Coding Standard'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['coding_standard ', 'security']
+
+[info]
+    # programming language
+    language = 'c'
+    # license used in the project from the list provided by this repo
+    license = '©2020 Carnegie Mellon University'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 129
+    # free text with a small desciption of the benchmark
+    description = 'The rules in this standard are intended to improve the security of software by improving the knowledge, practices, and tools that software developers use.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682'
+    # the link to the source code
+    sources = 'https://wiki.sei.cmu.edu/confluence/display/c/2+Rules'
+    # the link to the page with documentation
+    documentation = 'https://wiki.sei.cmu.edu/confluence/display/c/2+Rules'
