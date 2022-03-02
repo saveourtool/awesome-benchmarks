@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Geekbench'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance ', 'hardware', 'devices']
+
+[info]
+    # programming language
+    language = 'Agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright © 2004-2022 Primate Labs Inc.'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1
+    # free text with a small desciption of the benchmark
+    description = 'Geekbench is a cross-platform benchmark that measures your system performance with the press of a button. How will your mobile device or desktop computer perform when push comes to crunch? How will it compare to the newest devices on the market?'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://browser.geekbench.com/'
+    # the link to the source code
+    sources = 'https://www.geekbench.com/'
+    # the link to the page with documentation
+    documentation = 'https://www.geekbench.com/'
