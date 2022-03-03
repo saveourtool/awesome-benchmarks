@@ -40,4 +40,6 @@ val licensesList: List<String> = listOf(
     "©2020 Carnegie Mellon University",
     "©2009 California Institute of Technology",
     "Copyright 1995 - 2022 Standard Performance Evaluation Corporation",
+    "Copyright © 2004-2022 Primate Labs Inc.",
+    "NO"
 )
