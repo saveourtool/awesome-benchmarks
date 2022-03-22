@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'CodeXGLUE'
+    # select the most applicable category from the list provided by this repo
+    category = 'AI'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['go', 'toolkit']
+
+[info]
+    # programming language
+    language = 'go'
+    # license used in the project from the list provided by this repo
+    license = 'mit'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1
+    # free text with a small desciption of the benchmark
+    description = 'CodeXGLUE includes a collection of code intelligence tasks and a platform for model evaluation and comparison. It stands for General Language Understanding Evaluation benchmark for CODE.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/microsoft/CodeXGLUE'
+    # the link to the source code
+    sources = 'https://github.com/Kotlin/kotlinx-benchmark/archive/refs/tags/v0.3.1.zip'
+    # the link to the page with documentation
+    documentation = 'https://github.com/microsoft/CodeXGLUE/blob/main/README.md'
