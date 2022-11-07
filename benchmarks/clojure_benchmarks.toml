@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Clojure benchmarks'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance']
+
+[info]
+    # programming language
+    language = 'clojure'
+    # license used in the project from the list provided by this repo
+    license = 'bsd-2-clause'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 100
+    # free text with a small desciption of the benchmark
+    description = 'Clojure tests for measuring program execution time and performance.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/jafingerhut/clojure-benchmarks'
+    # the link to the source code
+    sources = 'https://github.com/jafingerhut/clojure-benchmarks'
+    # the link to the page with documentation
+    documentation = 'https://github.com/jafingerhut/clojure-benchmarks/blob/master/README.md'

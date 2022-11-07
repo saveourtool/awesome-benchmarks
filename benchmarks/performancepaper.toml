@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Performancepaper'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance']
+
+[info]
+    # programming language
+    language = 'java, clojure'
+    # license used in the project from the list provided by this repo
+    license = 'Eclipse Public License - v 2.0'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 6
+    # free text with a small desciption of the benchmark
+    description = 'Exploring the Methodology of “A performance comparison of Clojure and Java” by Gustav Krantz.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/joinr/performancepaper'
+    # the link to the source code
+    sources = 'https://github.com/joinr/performancepaper'
+    # the link to the page with documentation
+    documentation = 'https://github.com/joinr/performancepaper/blob/master/README.org'
