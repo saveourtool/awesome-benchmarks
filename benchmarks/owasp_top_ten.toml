@@ -8,7 +8,7 @@
 
 [info]
     # programming language
-    language = 'language independent'
+    language = 'language agnostic'
     # license used in the project from the list provided by this repo
     license = 'Creative Commons Attribution-ShareAlike 4.0 International Public License'
     # number of tests/cases/scenarios/benchmarks (should not be 0)

@@ -8,7 +8,7 @@
 
 [info]
     # programming language
-    language = 'language independent'
+    language = 'language agnostic'
     # license used in the project from the list provided by this repo
     license = 'Copyright 2022, The MITRE Corporation'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
