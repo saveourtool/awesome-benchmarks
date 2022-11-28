@@ -6,4 +6,5 @@ enum class BenchmarkCategoryEnum {
     PERFORMANCE,
     AUDIT,
     AI,
+    DEFECT_DETECTION,
 }
