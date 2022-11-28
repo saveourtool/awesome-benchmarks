@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'OWASP Top Ten'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['portability', 'security', 'safety']
+
+[info]
+    # programming language
+    language = 'language agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Creative Commons Attribution-ShareAlike 4.0 International Public License'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 10
+    # free text with a small desciption of the benchmark
+    description = 'The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://owasp.org/www-project-top-ten/'
+    # the link to the source code
+    sources = 'https://github.com/OWASP/www-project-top-ten'
+    # the link to the page with documentation
+    documentation = 'https://github.com/OWASP/Top10'

@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'GrowingBugs'
+    # select the most applicable category from the list provided by this repo
+    category = 'DEFECT_DETECTION'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['defect detection']
+
+[info]
+    # programming language
+    language = 'java'
+    # license used in the project from the list provided by this repo
+    license = 'mit'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1902
+    # free text with a small desciption of the benchmark
+    description = 'This is a bug repository that keeps growing for Java.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://github.com/liuhuigmail/GrowingBugRepository'
+    # the link to the source code
+    sources = 'https://github.com/liuhuigmail/GrowingBugRepository'
+    # the link to the page with documentation
+    documentation = 'https://github.com/liuhuigmail/GrowingBugRepository/blob/main/README.md'
