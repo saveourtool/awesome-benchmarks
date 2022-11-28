@@ -41,5 +41,8 @@ val licensesList: List<String> = listOf(
     "©2009 California Institute of Technology",
     "Copyright 1995 - 2022 Standard Performance Evaluation Corporation",
     "Copyright © 2004-2022 Primate Labs Inc.",
+    "Creative Commons Attribution-ShareAlike 4.0 International Public License",
+    "Copyright © 2022 AUTOSAR",
+    "Copyright 2022, The MITRE Corporation",
     "NO"
 )

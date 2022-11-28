@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'CWE'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['portability', 'security', 'safety']
+
+[info]
+    # programming language
+    language = 'language agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright 2022, The MITRE Corporation'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1400
+    # free text with a small desciption of the benchmark
+    description = 'CWE™ is a community-developed list of software and hardware weakness types. It serves as a common language, a measuring stick for security tools, and as a baseline for weakness identification, mitigation, and prevention efforts.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://cwe.mitre.org/'
+    # the link to the source code
+    sources = 'https://cwe.mitre.org/data/downloads.html'
+    # the link to the page with documentation
+    documentation = 'https://cwe.mitre.org/data/published/cwe_latest.pdf'
