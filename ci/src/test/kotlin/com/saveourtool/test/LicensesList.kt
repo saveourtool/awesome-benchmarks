@@ -37,6 +37,7 @@ val licensesList: List<String> = listOf(
     "zlib",
     "misra",
     "misra-c",
+    "Eclipse Public License - v 2.0",
     "©2020 Carnegie Mellon University",
     "©2009 California Institute of Technology",
     "Copyright 1995 - 2022 Standard Performance Evaluation Corporation",
@@ -44,5 +45,6 @@ val licensesList: List<String> = listOf(
     "Creative Commons Attribution-ShareAlike 4.0 International Public License",
     "Copyright © 2022 AUTOSAR",
     "Copyright 2022, The MITRE Corporation",
-    "NO"
+    "NO",
+    "Copyright © 2004-2008 Brent Fulgham, 2005-2022 Isaac Gouy All rights reserved.",
 )

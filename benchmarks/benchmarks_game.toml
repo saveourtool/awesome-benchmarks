@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Benchmarks game'
+    # select the most applicable category from the list provided by this repo
+    category = 'PERFORMANCE'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['performance']
+
+[info]
+    # programming language
+    language = 'language agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright © 2004-2008 Brent Fulgham, 2005-2022 Isaac Gouy All rights reserved.'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 1
+    # free text with a small desciption of the benchmark
+    description = 'Toy-program performance measurements for ~24 language implementations.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://benchmarksgame-team.pages.debian.net/benchmarksgame/'
+    # the link to the source code
+    sources = 'https://salsa.debian.org/benchmarksgame-team/benchmarksgame'
+    # the link to the page with documentation
+    documentation = 'https://benchmarksgame-team.pages.debian.net/benchmarksgame/sometimes-people-just-make-up-stuff.html'
