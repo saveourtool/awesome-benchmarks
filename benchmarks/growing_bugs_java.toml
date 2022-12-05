@@ -2,7 +2,7 @@
     # benchmark name
     name = 'GrowingBugs'
     # select the most applicable category from the list provided by this repo
-    category = 'DEFECT_DETECTION'
+    category = 'CODE_ANALYSIS'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
     tags = ['defect detection']
 

@@ -1,10 +1,10 @@
 package com.saveourtool.test
 
+// this enum should be synchronized with enum in save-cloud
 enum class BenchmarkCategoryEnum {
-    STATIC_ANALYSIS,
+    CODE_ANALYSIS,
     CODING_STANDARD,
     PERFORMANCE,
     AUDIT,
     AI,
-    DEFECT_DETECTION,
 }
