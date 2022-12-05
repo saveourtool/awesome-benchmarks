@@ -2,9 +2,9 @@
     # benchmark name 
     name = 'Juliet Test Suite for C#'
     # select the most applicable category from the list provided by this repo
-    category = 'STATIC_ANALYSIS' 
+    category = 'CODE_ANALYSIS'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
-    tags = ['static_analysis', 'juliet', 'security']
+    tags = ['code_analysis', 'juliet', 'security']
 
 [info]
     # programming language
