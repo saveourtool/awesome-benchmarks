@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'ISO/IEC 5055'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODE_ANALYSIS'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['code_analysis', 'security']
+
+[info]
+    # programming language
+    language = 'Agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'ISO Customer Licence Agreement'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 335
+    # free text with a small desciption of the benchmark
+    description = 'ISO 5055 is a software quality standard that calculates quality measures based on the number of critical weaknesses in the software.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.iso.org/standards.html'
+    # the link to the source code
+    sources = 'https://www.iso.org/standard/80623.html'
+    # the link to the page with documentation
+    documentation = 'https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html'
