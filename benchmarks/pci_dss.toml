@@ -10,7 +10,7 @@
     # programming language
     language = 'Agnostic'
     # license used in the project from the list provided by this repo
-    license = 'Copyright © 2006 – 2022 PCI Security Standards Council, LLC. All rights reserved.'
+    license = 'Copyright © 2006 – 2022 PCI Security Standards Council, LLC. All rights reserved'
     # number of tests/cases/scenarios/benchmarks (should not be 0)
     scenarios_num = 208
     # free text with a small desciption of the benchmark

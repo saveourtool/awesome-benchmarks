@@ -2,9 +2,9 @@
     # benchmark name
     name = 'Joint Strike Fighter Air Vehicle C++'
     # select the most applicable category from the list provided by this repo
-    category = 'CODE_ANALYSIS'
+    category = 'CODING_STANDARD'
     # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
-    tags = ['code_analysis', 'c++']
+    tags = ['coding_standard', 'c++']
 
 [info]
     # programming language

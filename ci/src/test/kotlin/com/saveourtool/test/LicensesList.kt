@@ -48,7 +48,7 @@ val licensesList: List<String> = listOf(
     "NO",
     "Copyright © 2004-2008 Brent Fulgham, 2005-2022 Isaac Gouy All rights reserved.",
     "Copyright © 2015 Object Management Group",
-    "Copyright © 2006 – 2022 PCI Security Standards Council, LLC. All rights reserved. Terms and Conditions.",
+    "Copyright © 2006 – 2022 PCI Security Standards Council, LLC. All rights reserved",
     "ISO Customer Licence Agreement",
     "Copyright 2005 by Lockheed Martin Corporation",
 )
