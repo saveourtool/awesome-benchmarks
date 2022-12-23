@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Payment Card Industry Data Security Standard'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['coding_standard', 'security']
+
+[info]
+    # programming language
+    language = 'Agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright © 2006 – 2022 PCI Security Standards Council, LLC. All rights reserved'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 208
+    # free text with a small desciption of the benchmark
+    description = 'The Payment Card Industry Data Security Standard (PCI DSS) is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions and protect cardholders against misuse of their personal information.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.pcisecuritystandards.org/'
+    # the link to the source code
+    sources = 'https://www.pcisecuritystandards.org/document_library/?category=pcidss'
+    # the link to the page with documentation
+    documentation = 'https://www.pcisecuritystandards.org/document_library/?category=pcidss'

@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Automated Source Code CISQ Performance Efficiency Measure'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['coding_standard', 'security']
+
+[info]
+    # programming language
+    language = 'Agnostic'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright © 2015 Object Management Group'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 195
+    # free text with a small desciption of the benchmark
+    description = 'The purpose of this specification is to establish a standard measure of Performance Efficiency based on detecting violations of good architectural and coding practices that could result in inefficient operation such as performance degradation or excessive use of processor resources.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.omg.org/spec/ASCPEM/1.0/'
+    # the link to the source code
+    sources = 'https://www.omg.org/spec/ASCPEM/1.0/PDF'
+    # the link to the page with documentation
+    documentation = 'https://www.omg.org/spec/ASCPEM/1.0/PDF'

@@ -1,0 +1,25 @@
+[general]
+    # benchmark name
+    name = 'Joint Strike Fighter Air Vehicle C++'
+    # select the most applicable category from the list provided by this repo
+    category = 'CODING_STANDARD'
+    # mark your benchmark with custom tags (your own custom tags OR use existing from other projects)
+    tags = ['coding_standard', 'c++']
+
+[info]
+    # programming language
+    language = 'c++'
+    # license used in the project from the list provided by this repo
+    license = 'Copyright 2005 by Lockheed Martin Corporation'
+    # number of tests/cases/scenarios/benchmarks (should not be 0)
+    scenarios_num = 221
+    # free text with a small desciption of the benchmark
+    description = 'Joint Strike Fighter Air Vehicle C++ (JSF AV C++) is a coding standard developed by Lockheed Martin. It helps programmers develop error-free code for safety-critical systems.'
+
+[links]
+    # the link to the home page of the benchmark
+    homepage = 'https://www.stroustrup.com/JSF-AV-rules.pdf'
+    # the link to the source code
+    sources = 'https://www.stroustrup.com/JSF-AV-rules.pdf'
+    # the link to the page with documentation
+    documentation = 'https://www.stroustrup.com/JSF-AV-rules.pdf'
